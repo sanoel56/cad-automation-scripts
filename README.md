@@ -52,9 +52,9 @@ These scripts automate repetitive CAD tasks — batch rename layers, count block
 ## Buy instant-download scripts
 
 Pre-built scripts available on Gumroad:
-- **AutoCAD LISP Toolkit** (7 scripts) — $49
-- **pyRevit Automation Pack** (6 scripts) — $49
-- **Full Bundle** (all 13 scripts) — $99
+- **AutoCAD LISP Toolkit** (7 scripts) — $29
+- **pyRevit Automation Pack** (6 scripts) — $29
+- **Full Bundle** (all 13 scripts) — $49
 
 https://sanoel5.gumroad.com
 

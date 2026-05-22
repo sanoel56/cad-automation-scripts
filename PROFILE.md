@@ -7,8 +7,7 @@ I automate repetitive drafting tasks so you can focus on design, not data entry.
 ## Quick links
 
 - **Portfolio repo**: https://github.com/sanoel56/cad-automation-scripts
-- **Upwork**: https://www.upwork.com/freelancers/~[your-id]
-- **Fiverr**: https://www.fiverr.com/[your-name]
+- **Upwork**: https://www.upwork.com/freelancers/~01eaecb2fca73ffc2a
 
 ## Sample scripts I've created
 
@@ -28,5 +27,5 @@ I automate repetitive drafting tasks so you can focus on design, not data entry.
 ## Contact
 
 - Email: sanoel56@gmail.com
-- Upwork / Fiverr: links above
+- Upwork: https://www.upwork.com/freelancers/~01eaecb2fca73ffc2a
 - Open to custom project inquiries

@@ -52,8 +52,7 @@ These scripts automate repetitive CAD tasks — batch rename layers, count block
 ## Need a custom script?
 
 Open an issue or contact me on:
-- **Upwork**: https://www.upwork.com/freelancers/~[your-id]
-- **Fiverr**: https://www.fiverr.com/[your-name]
+- **Upwork**: https://www.upwork.com/freelancers/~01eaecb2fca73ffc2a
 - **Email**: sanoel56@gmail.com
 
 ## License

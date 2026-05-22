@@ -48,7 +48,7 @@ STEP 4: Set up GitHub Profile README (optional but recommended)
 
 STEP 5: Add GitHub link to your Upwork profile
 ------------------------------------------------
-  1. Go to https://www.upwork.com/freelancers/your-profile
+  1. Go to https://www.upwork.com/freelancers/~01eaecb2fca73ffc2a
   2. Click "Edit" on your profile
   3. In the "Portfolio" section, click "Add Link"
   4. Title: "CAD Automation Scripts Portfolio"
@@ -59,14 +59,7 @@ STEP 5: Add GitHub link to your Upwork profile
   7. Also add to "Employment History" description as a link
 
 
-STEP 6: (Optional) Add GitHub to your Fiverr gig
---------------------------------------------------
-  In each Fiverr gig description, add a line:
-  
-  "View my script portfolio: https://github.com/sanoel56/cad-automation-scripts"
-
-
-STEP 7: For Upwork job proposals
+STEP 6: For Upwork job proposals
 ----------------------------------
   When applying for Upwork jobs, include this in your cover letter:
 

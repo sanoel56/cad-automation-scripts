@@ -59,7 +59,16 @@ STEP 5: Add GitHub link to your Upwork profile
   7. Also add to "Employment History" description as a link
 
 
-STEP 6: For Upwork job proposals
+STEP 6: Add Gumroad link to Upwork profile
+--------------------------------------------
+  In your Upwork profile (Portfolio section), add a second link:
+  - Title: "Instant-Download CAD Scripts on Gumroad"
+  - URL: https://sanoel5.gumroad.com
+  - Description: "Pre-built AutoCAD LISP and pyRevit scripts available for instant download.
+    No waiting — pay, download, use."
+
+
+STEP 7: For Upwork job proposals
 ----------------------------------
   When applying for Upwork jobs, include this in your cover letter:
 

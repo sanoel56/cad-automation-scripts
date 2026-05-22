@@ -49,10 +49,20 @@ These scripts automate repetitive CAD tasks — batch rename layers, count block
 | Complex pyRevit script | $400 | 5-7 days |
 | Custom automation (hourly) | $60/hr | Varies |
 
+## Buy instant-download scripts
+
+Pre-built scripts available on Gumroad:
+- **AutoCAD LISP Toolkit** (7 scripts) — $49
+- **pyRevit Automation Pack** (6 scripts) — $49
+- **Full Bundle** (all 13 scripts) — $99
+
+https://sanoel5.gumroad.com
+
 ## Need a custom script?
 
-Open an issue or contact me on:
+Open an issue or contact me:
 - **Upwork**: https://www.upwork.com/freelancers/~01eaecb2fca73ffc2a
+- **Gumroad**: https://sanoel5.gumroad.com
 - **Email**: sanoel56@gmail.com
 
 ## License

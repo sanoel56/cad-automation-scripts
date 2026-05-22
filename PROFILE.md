@@ -8,6 +8,7 @@ I automate repetitive drafting tasks so you can focus on design, not data entry.
 
 - **Portfolio repo**: https://github.com/sanoel56/cad-automation-scripts
 - **Upwork**: https://www.upwork.com/freelancers/~01eaecb2fca73ffc2a
+- **Gumroad**: https://sanoel5.gumroad.com (instant-download scripts)
 
 ## Sample scripts I've created
 
